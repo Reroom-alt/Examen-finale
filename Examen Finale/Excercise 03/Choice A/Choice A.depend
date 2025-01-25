@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1737812519 source:c:\users\luffy\documents\my workspace\examen finale\excercise 03\choice a\stack.c
+	<stdio.h>
+	<stdlib.h>
+	"stack.h"
+
+1737812386 c:\users\luffy\documents\my workspace\examen finale\excercise 03\choice a\stack.h
+

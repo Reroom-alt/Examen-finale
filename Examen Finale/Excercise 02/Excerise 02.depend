@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1733001498 source:c:\users\luffy\documents\my workspace\examen finale\excercise 02\list.c
+	<stdio.h>
+	<stdlib.h>
+	"list.h"
+
+1733001498 c:\users\luffy\documents\my workspace\examen finale\excercise 02\list.h
+
